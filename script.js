@@ -1,0 +1,1 @@
+// Placeholder for JavaScript behavior (e.g., navigation, animations)
